@@ -22,3 +22,6 @@ median_income
 medianhousevalue
 
 ocean_proximity
+
+
+Here the independent fields are longitude,latitude,housingmedianage,total_rooms,total_bedrooms,population,households,median_income and ocean_proximity and the dependent field(target) is medianhousevalue
