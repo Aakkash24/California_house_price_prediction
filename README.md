@@ -24,3 +24,8 @@ The data pertains to the houses found in a given California district and some su
 10. oceanProximity: Location of the house w.r.t ocean/sea
 
 Here the independent fields are longitude,latitude,housingmedianage,total_rooms,total_bedrooms,population,households,median_income and ocean_proximity and the dependent field(target) is medianhousevalue
+
+
+
+Household distribution in California
+![image](https://user-images.githubusercontent.com/86700664/131241532-a6a987e3-d8f4-4326-a91c-67d0f6af78a7.png)
